@@ -1,0 +1,23 @@
+.class1 {
+    color: red;
+}
+
+.class2 {
+    color: green;
+    font-weight: bold;
+}
+
+#id1 {
+    color: blue;
+    background-color: yellow;
+}
+
+.class3 {
+    font-size: medium;
+}
+
+.text-wrapper {
+    width: fit-content;
+    display: flex;
+}
+
